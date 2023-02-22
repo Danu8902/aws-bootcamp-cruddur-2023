@@ -4,28 +4,27 @@
 
 I recreated the logical Diagram in Lucid Charts using the live stream tutorial as reference
 
-![Recreated Logical Architectual Diagram in Lucid Charts ](https://lucid.app/lucidchart/2477f41a-469c-495c-a176-91cd01db484a/edit?viewport_loc=-206%2C28%2C2220%2C1022%2C0_0&invitationId=inv_671d3f6d-193b-4c6c-878c-4c49873af99b)
+![logical_architural_diagram](https://user-images.githubusercontent.com/90847949/220750737-b33a0f62-cd1c-4e53-8f3f-83d24bb3b781.png)
 
-**Insert screenshot here
+![_logical_architectural_diagram](https://user-images.githubusercontent.com/90847949/220753352-b24cb412-9f2a-4fa1-ba93-a6570b92d6c6.png)
 
-![Screenshot of recreated Logical Architectual Diagram in Lucid Charts]()
+
 
 I recreated the Conceptual Diagram in Lucid Charts using the tutorial video from the playlist
 
 ![Recreated Conceptual Diagram in Lucid Charts]()
 
-**Insert screenshot here
+![napkin_diagram](https://user-images.githubusercontent.com/90847949/220752881-9118c20c-1d7f-4634-a36c-f253c7871ec7.png)
 
-![Scrrenshot of recreated Conceptual Diagram in Lucid Charts]()
 
 I tried to install AWS CLI on gitpod.yml file, but was unable to
 
-**Insert screenshot here
+![gitpod yml](https://user-images.githubusercontent.com/90847949/220753636-1b8276a1-aa19-4fe2-98cb-22ecfe09b868.png)
 
 ![.gitpod.yml](https://danu8902-awsbootcampcru-7qomuye86je.ws-eu87.gitpod.io/)
 
-Created a Billing Alarm on AWS with no issues
+Created a Budget spend
 
-![Create a Billing Alarm]()
+![budget_spend](https://user-images.githubusercontent.com/90847949/220756619-42fdcc03-528a-4612-8a3f-1c15a175b83e.png)
 
-Also created a Budget spend
+Also created a Billing Alarm on AWS with no issues
