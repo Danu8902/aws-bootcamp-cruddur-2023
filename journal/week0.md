@@ -12,7 +12,8 @@ I recreated the logical Diagram in Lucid Charts using the live stream tutorial a
 
 I recreated the Conceptual Diagram in Lucid Charts using the tutorial video from the playlist
 
-![Recreated Conceptual Diagram in Lucid Charts]()
+![_napkin_diagram](https://user-images.githubusercontent.com/90847949/220761681-044e73ba-d4ce-42a9-91fd-ee7414b4442a.png)
+
 
 ![napkin_diagram](https://user-images.githubusercontent.com/90847949/220752881-9118c20c-1d7f-4634-a36c-f253c7871ec7.png)
 
@@ -21,7 +22,11 @@ I tried to install AWS CLI on gitpod.yml file, but was unable to
 
 ![gitpod yml](https://user-images.githubusercontent.com/90847949/220753636-1b8276a1-aa19-4fe2-98cb-22ecfe09b868.png)
 
-![.gitpod.yml](https://danu8902-awsbootcampcru-7qomuye86je.ws-eu87.gitpod.io/)
+Installed ASW CLI using the windows install and made sure it works using a command prompt
+
+
+![installed_AWS_CLI](https://user-images.githubusercontent.com/90847949/220762261-41be9d8b-e707-4362-98c2-b70d8bec3930.png)
+
 
 Created a Budget spend
 
